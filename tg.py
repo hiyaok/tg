@@ -1079,7 +1079,7 @@ BOT_TOKEN = "8233834199:AAEP4u18S-2Qn8-7M6NdSsN_I6lBdkf9cco"  # Ganti dengan Bot
 
 # ADMIN IDs - Hanya user dengan ID ini yang bisa menggunakan bot
 ADMIN_IDS = [
-    123456789,   # Ganti dengan Telegram user ID admin 1
+    5988451717,   # Ganti dengan Telegram user ID admin 1
     987654321,   # Ganti dengan Telegram user ID admin 2
     # Tambahkan ID admin lainnya di sini
 ]
