@@ -569,7 +569,7 @@ class SessionManager:
 # Konfigurasi
 API_ID = 23316210  # Ganti dengan API ID Anda
 API_HASH = "efbb21f5b0e4693f769929e64c3e8c30"  # Ganti dengan API Hash Anda  
-BOT_TOKEN = "8233834199:AAFxT6hKDqacsX44UEQiLI7QsHVoNfUI06Q"  # Ganti dengan Bot Token Anda
+BOT_TOKEN = "8233834199:AAFUEQiLI7QsHVoNfUI06Q"  # Ganti dengan Bot Token Anda
 
 # ADMIN IDs - Hanya user dengan ID ini yang bisa menggunakan bot
 ADMIN_IDS = [
