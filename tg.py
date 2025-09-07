@@ -11,7 +11,7 @@ import logging
 
 from telethon import TelegramClient, events, Button
 from telethon.errors import SessionPasswordNeededError, PhoneNumberInvalidError, ReplyMarkupInvalidError
-from telethon.tl.functions.account import GetPasswordRequest, GetAuthorizationsRequest, ResetAuthorizationsRequest
+from telethon.tl.functions.account import GetPasswordRequest, GetAuthorizationsRequest, ResetAuthorizationRequest
 from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.functions.auth import SendCodeRequest
 from telethon.tl.types import User
